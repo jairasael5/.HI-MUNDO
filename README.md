@@ -1,2 +1,4 @@
 # .HI-MUNDO
-my test 0
+hi humanos!
+this my new repository
+i like potatoes and like not aguacate
